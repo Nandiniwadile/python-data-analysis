@@ -1,4 +1,4 @@
-🏨 Hotels Data Analysis Using Python
+🏨 Hotels Booking Data Analysis Using Python (Hospitality Domain)
 
 🎥 Project Walkthrough (2 Minutes)
 ▶️ Watch the complete screen recording walkthrough:
