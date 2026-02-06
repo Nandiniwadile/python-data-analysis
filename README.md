@@ -1,5 +1,9 @@
 🏨 Hotels Data Analysis Using Python
 
+🎥 Project Walkthrough (2 Minutes)
+▶️ Watch the complete screen recording walkthrough:
+["D:\Recording 2026-02-06 154211.mp4"]
+
 📌 Project Overview
 This project presents a comprehensive exploratory data analysis (EDA) of hotel booking data.
 The goal is to derive actionable insights related to occupancy trends, revenue performance,
